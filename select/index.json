@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "おおかみは赤ずきんに恋をした",
+  "base_artist": "ひとしずく×やま△",
+  "createdAt": "2025-12-18T12:29:46.186734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "EXIT TUNES",
+      "has_synced": false,
+      "path": "select/01_おおかみは赤ずきんに恋をした_EXIT_TUNES.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "Cordelia",
+      "has_synced": false,
+      "path": "select/02_おおかみは赤ずきんに恋をした_Cordelia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "Hitoshizuku and Yama",
+      "has_synced": false,
+      "path": "select/03_おおかみは赤ずきんに恋をした_Hitoshizuku_and_Yama.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "花たん (花糖)",
+      "has_synced": false,
+      "path": "select/04_おおかみは赤ずきんに恋をした_花たん_(花糖).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/05_おおかみは赤ずきんに恋をした_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "YURiCa",
+      "has_synced": false,
+      "path": "select/06_おおかみは赤ずきんに恋をした_YURiCa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "YURiCa/花たん",
+      "has_synced": false,
+      "path": "select/07_おおかみは赤ずきんに恋をした_YURiCa_花たん.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "花たん",
+      "has_synced": false,
+      "path": "select/08_おおかみは赤ずきんに恋をした_花たん.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "ひとしずく×やま△ feat.花たん・ぽこた",
+      "has_synced": true,
+      "path": "select/09_おおかみは赤ずきんに恋をした_ひとしずく×やま△_feat.花たん・ぽこた.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "ひとしずく, やま△",
+      "has_synced": false,
+      "path": "select/10_おおかみは赤ずきんに恋をした_ひとしずく,_やま△.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした (feat. YURiCa, ぽこた)",
+      "artist": "花たん",
+      "has_synced": false,
+      "path": "select/11_おおかみは赤ずきんに恋をした_(feat._YURiCa,_ぽこた)_花たん.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "ひとしずく",
+      "has_synced": true,
+      "path": "select/12_おおかみは赤ずきんに恋をした_ひとしずく.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おおかみは赤ずきんに恋をした",
+      "artist": "ひとしずく×やま△",
+      "has_synced": false,
+      "path": "select/pl_01_おおかみは赤ずきんに恋をした_ひとしずく×やま△.txt"
+    }
+  ]
+}
